@@ -7,7 +7,7 @@
     {
       "id": 1,
       "title": "Carly's challenge",
-      "clue": "Carly is trying to find her way into the garden. She can see the garden through all the big windows, but she can't get through the glass! Can you find her?",
+      "clue": "Carly Caterpillar is trying to find her way into the garden. She can see the garden through all the big windows, but she can't get through the glass! Can you find her?",
       "image": "/2023-gift-o-matic/map-01-carly.gif",
       "hint": "What word does Carly's clues give you?",
       "answer": "bee",
@@ -27,7 +27,7 @@
     {
       "id": 3,
       "title": "Sid's secret message",
-      "clue": "Sid can help you. Sid the spider likes dangling in trees.",
+      "clue": "Sid Spider can help you. Sid the spider likes dangling in trees.",
       "image": "/2023-gift-o-matic/map-03-sid.gif",
       "hint": "Do Sid's little gifts shine a new light on his letter?",
       "answer": "ladybird",
@@ -37,7 +37,7 @@
     {
       "id": 4,
       "title": "Lucas's little friends",
-      "clue": "Lucas the ladybird likes to play. He's surrounded by toys. Can you find him? I think he knows the code to my box.",
+      "clue": "Lucas Ladybird likes to play. He's surrounded by toys. Can you find him? I think he knows the code to my box.",
       "image": "/2023-gift-o-matic/map-04-lucas.gif",
       "hint": "Do Lucas's friends know a secret number?",
       "answer": "731",
